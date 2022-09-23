@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 Développer
 
-- [Langage `Javascript`](development/langage-javascript.md)
+- [Langage `Javascript`](./development/langage-javascript.md)
 - [Dev Backend `NodeJS`](development/nodejs.md)
 - [Dev Frontend `React`](development/react.md)
 - [Dev Mobile `React Native`](development/react-native.md)
@@ -33,4 +33,5 @@
 ## ℹ️ Aide
 
 - [Comment mettre à jour mon carnet de compétences](help/how-to-update.md)
+
 # carnet-de-competences
