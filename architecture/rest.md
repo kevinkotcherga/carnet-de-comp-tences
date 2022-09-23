@@ -10,7 +10,7 @@
 - les statuts HTTP ❌ / ✔️
 - les endpoints ❌ / ✔️
 - CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- la nomenclature recommandée pour les routes✔️
 
 ## 💻 J'utilise
 
